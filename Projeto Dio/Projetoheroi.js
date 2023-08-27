@@ -1,7 +1,7 @@
 //quantidade de XP do usuário e Nome
 let nome = ("He-man")
 let xp = ("10000")
-let nivel
+let nivel = ""
 
 if (xp < 1000) {
     nivel = "Ferro"
